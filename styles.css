@@ -25,5 +25,26 @@ div.main{
 }
 
 input[type=text],input[type=password]{
-    
+    width: 100%;
+    font-size: 16px;
+}
+
+label{
+    color: #464646;
+    text-shadow: 0 1px 0 #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+center{
+    font-size: 32px;
+}
+.note{
+    color: red;
+}
+
+button[type=button]{
+    font-size: 16px;
+    border: 1px solid #e5a900;
+    font-weight: bold;
 }
